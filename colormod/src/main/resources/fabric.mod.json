@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "colormod",
+  "version": "1.0.0",
+  "name": "GUI Color Mod",
+  "description": "Додає кнопку для зміни кольору інтерфейсу / Adds a button to change GUI color",
+  "authors": ["ColorMod"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.colormod.client.ColorModClient"
+    ]
+  },
+  "mixins": [
+    "colormod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric-api": "*",
+    "minecraft": "~1.21.1",
+    "java": ">=21"
+  }
+}

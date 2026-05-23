@@ -1,0 +1,13 @@
+{
+  "colormod.screen.title": "Налаштування кольору інтерфейсу",
+  "colormod.color.red": "Червоний",
+  "colormod.color.green": "Зелений",
+  "colormod.color.blue": "Синій",
+  "colormod.color.opacity": "Прозорість",
+  "colormod.button.save": "Зберегти",
+  "colormod.button.exit": "Скасувати",
+  "colormod.button.open": "Колір",
+  "colormod.label.preview": "Попередній перегляд",
+  "colormod.label.current": "Поточний",
+  "colormod.label.new": "Новий"
+}

@@ -1,0 +1,13 @@
+{
+  "colormod.screen.title": "GUI Color Settings",
+  "colormod.color.red": "Red",
+  "colormod.color.green": "Green",
+  "colormod.color.blue": "Blue",
+  "colormod.color.opacity": "Opacity",
+  "colormod.button.save": "Save",
+  "colormod.button.exit": "Cancel",
+  "colormod.button.open": "Color",
+  "colormod.label.preview": "Preview",
+  "colormod.label.current": "Current",
+  "colormod.label.new": "New"
+}
